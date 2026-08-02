@@ -23,8 +23,6 @@ The Consulting Firm Operations Client CRM and Pipeline...
 
 Upgrade to the Pro version for **$59.99** and unlock all premium features.
 
-**[Buy on Gumroad](https://propathacademy.gumroad.com/l/ncpkc)** — Instant download, lifetime updates
-
 **[Buy Now (Stripe)](https://buy.stripe.com/dRm7sL26H1g0g885bucZc0a)** — Secure checkout
 
 ## Installation
@@ -36,7 +34,6 @@ Upgrade to the Pro version for **$59.99** and unlock all premium features.
 ## Support
 
 - Open an [issue](../../issues) for bug reports
-- Pro customers get priority support via the [purchase platform](https://propathacademy.gumroad.com/l/ncpkc)
 
 ## License
 
